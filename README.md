@@ -33,6 +33,11 @@ Para executar o projeto localmente, siga estas etapas:
 3. Navegue até o diretório raiz do projeto.
 4. Execute o comando `java -jar nome_do_arquivo.jar` para iniciar a aplicação.
 
+
+## UML
+
+![ Texto ](imagem) https://drive.google.com/file/d/1gdtIcGAmwbPtBiu6T1vWhY46UJ6hnkxC/view?usp=drive_link
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir novas issues se encontrar algum problema.
