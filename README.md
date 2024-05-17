@@ -6,7 +6,7 @@ Este é o projeto final construído para a apresentação do curso do Tomorrow. 
 
 - Wallace Matos
 - Valter Freitas
-- Jean J
+- Jean Santos
 - Napoleão José da Conceição Santana
 
 ## Estrutura do Projeto
